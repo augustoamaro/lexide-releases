@@ -6,7 +6,7 @@ Este repositório guarda só os **instaladores** e o **feed de atualização** d
 
 ## Instalar (Linux)
 
-Baixe o arquivo do [release mais recente](https://github.com/augustoamaro/lexide-releases/releases/latest):
+Requer Ubuntu 24.04, Debian 13, Fedora 40 ou mais novos (glibc 2.39). Baixe o arquivo do [release mais recente](https://github.com/augustoamaro/lexide-releases/releases/latest):
 
 - **AppImage** (qualquer distribuição): `chmod +x Lexide_*.AppImage` e abra. Atualiza sozinho pelo app.
 - **Debian e Ubuntu**: `sudo apt install ./Lexide_*_amd64.deb`
